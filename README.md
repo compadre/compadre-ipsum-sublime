@@ -1,5 +1,5 @@
-# Compadre Ipsum Sublime Snippet
-======================
+# Compadre Ipsum Snippet
+-----------------------------------------------------------------------------------------
 
 # Install
 To install through Package Control, find for **Compadre Ipsum Sublime Snippet**.
