@@ -15,7 +15,6 @@ To install manually, [click here to download the snippets](https://github.com/co
 - Type `compadre` and press `TAB` to generate one paragraph.
 - Or type `compadre*n` and press `TAB`. `n` is a value between 1 and 6, to generate a specific number of paragraph.
 
-
 ## Contributing
 
 1. Fork it!
