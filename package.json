@@ -1,10 +1,10 @@
 {
   "name": "compadre-ipsum-sublime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/compadre/compadre-ipsum-sublime.git"
   },
-  "author": "Ivan Santos",
+  "author": "Compadre Team",
   "homepage": "https://github.com/compadre/compadre-ipsum-sublime"
 }
