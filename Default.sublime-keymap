@@ -1,0 +1,15 @@
+[
+  { 
+    "keys": ["tab"],
+    "command": "compadre_ipsum",
+
+    "context": [
+	    {
+	    	"key": "preceding_text",
+	    	"operator": "regex_contains",
+	    	"operand": "compadre$|compadre(\\*\\d{1})$",
+	    	"match_all": true
+	    }
+    ]
+  }
+]
